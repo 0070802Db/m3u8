@@ -1,6 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-https://keela2.com/stream/17/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=191752&extension=m3u8
+
+
+#https://keela2.com/stream/17/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
 
 
