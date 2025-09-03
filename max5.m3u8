@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186567&extension=m3u8
+https://e113.hellotherepadawan.org/v5/iNRn8PtSmcZGjoVRrkq2Xw/1756860815/2169e3f20b83f61f045fe296fdace92c/_Tm4G6vOijvoIQ6ycWCWAA/1756871495/live/dx-origin/th-monomax05_720/chunks.m3u8
+
+#http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186567&extension=m3u8
 
 #http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186568&extension=m3u8
